@@ -1,5 +1,5 @@
 import axios from "axios";
-import styles from "./header.module.css"; // Import the CSS module styles
+import styles from "./header.module.css";
 
 const Header = () => {
   const logout = async() => {
