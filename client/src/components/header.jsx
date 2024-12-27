@@ -1,5 +1,5 @@
 import axios from "axios";
-import styles from "./header.module.css"; // Import the CSS module styles
+import styles from "./header.module.css";
 
 const Header = () => {
   const logout = async() => {
@@ -10,8 +10,7 @@ const Header = () => {
     <header className={styles.transparent}>
       <div className={styles.container}>
         <a href="#" className={styles.logo}>
-          <img src="./images/logo.png" className={styles.logo} alt="MyApp" />
-          <p>Rest Review</p>
+          <h3>Rest Review</h3>
         </a>
         <button className={styles["login-button"]} onClick={logout}>Logout</button>
       </div>
