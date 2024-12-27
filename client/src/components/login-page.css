@@ -1,0 +1,29 @@
+/* login-page.css */
+.login-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .login-container h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
+  
+  .user-info {
+    text-align: center;
+  }
+  
+  .user-info img {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+  }
+  
+  .user-info h3 {
+    font-size: 1.5em;
+    margin-top: 10px;
+  }
+  

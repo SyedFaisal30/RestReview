@@ -1,0 +1,57 @@
+[
+    {
+      "reviewId": "12345",
+      "authorName": "John Doe",
+      "authorProfileImage": "https://www.w3schools.com/w3images/avatar2.png",
+      "rating": 5,
+      "text": "Great service! Highly recommend visiting this restaurant for the delicious food and friendly staff.",
+      "time": "2023-01-01T10:00:00Z",
+      "replies": ""
+    }, 
+    {
+      "reviewId": "67890",
+      "authorName": "Jane Smith",
+      "authorProfileImage": "https://www.w3schools.com/w3images/avatar3.png",
+      "rating": 4,
+      "text": "Good food, but service could be faster. Overall, a pleasant experience.",
+      "time": "2023-01-05T14:30:00Z",
+      "replies": ""
+    },
+    {
+      "reviewId": "11223",
+      "authorName": "Alice Johnson",
+      "authorProfileImage": "https://www.w3schools.com/w3images/avatar4.png",
+      "rating": 3,
+      "text": "Average experience. The ambiance was nice, but the food didn't meet expectations. Could use improvement.",
+      "time": "2023-02-01T18:20:00Z",
+      "replies": ""
+    },
+    {
+      "reviewId": "22334",
+      "authorName": "Robert Brown",
+      "authorProfileImage": "https://www.w3schools.com/w3images/avatar5.png",
+      "rating": 2,
+      "text": "Disappointing meal. The food was cold, and the service was slow. Would not recommend.",
+      "time": "2023-03-10T09:15:00Z",
+      "replies": ""
+    },
+    {
+      "reviewId": "33445",
+      "authorName": "Emily Davis",
+      "authorProfileImage": "https://www.w3schools.com/w3images/avatar6.png",
+      "rating": 1,
+      "text": "Terrible experience. The restaurant was dirty, and the food was inedible. Never coming back.",
+      "time": "2023-03-15T12:00:00Z",
+      "replies": ""
+    },
+    {
+      "reviewId": "44556",
+      "authorName": "Chris Lee",
+      "authorProfileImage": "https://www.w3schools.com/w3images/avatar1.png",
+      "rating": 5,
+      "text": "Amazing place! Great food, amazing ambiance, and wonderful service. A must-visit for anyone in the area!",
+      "time": "2023-04-01T11:00:00Z",
+      "replies": ""
+    }
+  ]
+  

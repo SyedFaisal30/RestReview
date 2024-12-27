@@ -1,0 +1,122 @@
+[
+  {
+    "authorName": "Saanvi Patel",
+    "authorProfileImage": "https://www.w3schools.com/w3images/avatar2.png",
+    "rating": 4,
+    "text": "The food was great, but the service could have been a bit faster.",
+    "time": "2024-12-26T09:45:00Z",
+    "reply": ""
+  },
+  {
+    "authorName": "Ishaan Verma",
+    "authorProfileImage": "https://www.w3schools.com/w3images/avatar2.png",
+    "rating": 3,
+    "text": "The food quality was good, but the portion sizes were small for the price.",
+    "time": "2024-12-27T10:00:00Z",
+    "reply": ""
+  },
+  {
+    "authorName": "Priya Reddy",
+    "authorProfileImage": "https://www.w3schools.com/w3images/avatar2.png",
+    "rating": 5,
+    "text": "Absolutely loved the biryani! Will definitely come back for more.",
+    "time": "2024-12-28T11:15:00Z",
+    "reply": ""
+  },
+  {
+    "authorName": "Rohan Gupta",
+    "authorProfileImage": "https://www.w3schools.com/w3images/avatar2.png",
+    "rating": 4,
+    "text": "Great experience overall, but the dessert was a bit too sweet for my taste.",
+    "time": "2024-12-29T12:30:00Z",
+    "reply": ""
+  },
+  {
+    "authorName": "Ananya Joshi",
+    "authorProfileImage": "https://www.w3schools.com/w3images/avatar2.png",
+    "rating": 2,
+    "text": "The food was not as fresh as I expected, and the staff seemed unprepared.",
+    "time": "2024-12-30T14:00:00Z",
+    "reply": ""
+  },
+  {
+    "authorName": "Amit Singh",
+    "authorProfileImage": "https://www.w3schools.com/w3images/avatar2.png",
+    "rating": 5,
+    "text": "One of the best restaurants I’ve been to. The staff is friendly, and the food is top-notch.",
+    "time": "2024-12-31T15:30:00Z",
+    "reply": ""
+  },
+  {
+    "authorName": "Maya Kaur",
+    "authorProfileImage": "https://www.w3schools.com/w3images/avatar2.png",
+    "rating": 3,
+    "text": "The food was decent, but I felt it was overpriced for the portion sizes.",
+    "time": "2024-12-31T17:45:00Z",
+    "reply": ""
+  },
+  {
+    "authorName": "Karan Mehta",
+    "authorProfileImage": "https://www.w3schools.com/w3images/avatar2.png",
+    "rating": 4,
+    "text": "Nice place to dine in, but the seating arrangements could be better.",
+    "time": "2025-01-01T18:00:00Z",
+    "reply": ""
+  },
+  {
+    "authorName": "Nisha Shah",
+    "authorProfileImage": "https://www.w3schools.com/w3images/avatar2.png",
+    "rating": 5,
+    "text": "Excellent experience! The food was flavorful and the ambiance was cozy.",
+    "time": "2025-01-02T19:30:00Z",
+    "reply": ""
+  },
+  {
+    "authorName": "Arjun Patel",
+    "authorProfileImage": "https://www.w3schools.com/w3images/avatar2.png",
+    "rating": 4,
+    "text": "Really good food. The staff was attentive, but the wait time was a bit long.",
+    "time": "2025-01-03T20:45:00Z",
+    "reply": ""
+  },
+  {
+    "authorName": "Meera Nair",
+    "authorProfileImage": "https://www.w3schools.com/w3images/avatar2.png",
+    "rating": 5,
+    "text": "The tandoori chicken was fantastic! Great flavor and perfect texture.",
+    "time": "2025-01-04T21:00:00Z",
+    "reply": ""
+  },
+  {
+    "authorName": "Rajesh Kumar",
+    "authorProfileImage": "https://www.w3schools.com/w3images/avatar2.png",
+    "rating": 3,
+    "text": "The food was fine, but I expected more variety in the vegetarian options.",
+    "time": "2025-01-05T22:15:00Z",
+    "reply": ""
+  },
+  {
+    "authorName": "Tanvi Bhat",
+    "authorProfileImage": "https://www.w3schools.com/w3images/avatar2.png",
+    "rating": 4,
+    "text": "Great restaurant with good ambiance. However, the drink options were limited.",
+    "time": "2025-01-06T23:00:00Z",
+    "reply": ""
+  },
+  {
+    "authorName": "Vikram Agarwal",
+    "authorProfileImage": "https://www.w3schools.com/w3images/avatar2.png",
+    "rating": 5,
+    "text": "Absolutely loved everything. Best dining experience I’ve had in a long time.",
+    "time": "2025-01-07T00:30:00Z",
+    "reply": ""
+  },
+  {
+    "authorName": "Simran Kapoor",
+    "authorProfileImage": "https://www.w3schools.com/w3images/avatar2.png",
+    "rating": 2,
+    "text": "The food was below expectations, and the restaurant was too noisy.",
+    "time": "2025-01-08T02:00:00Z",
+    "reply": ""
+  }
+]
