@@ -1,68 +1,69 @@
 .transparent {
-    background: rgba(255, 255, 255, 0.95);
-    backdrop-filter: blur(8px);
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    z-index: 100;
-    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-  }
-  
+  background: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(0px);
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 100;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.container {
+  max-width: 100VW;
+  margin: 0 auto;
+  padding: 0rem 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  text-decoration: none;
+  color: #333;
+  font-weight: 600;
+  font-size: 1.25rem;
+  font-family:'Times New Roman', Times, serif;
+}
+
+.logo img {
+  height: 10vh;
+  width: auto;
+  object-fit: contain;
+}
+
+.login-button {
+  background: #007bff;
+  color: white;
+  border: none;
+  padding: 0.5rem 1.5rem;
+  border-radius: 6px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.login-button:hover {
+  background: #0056b3;
+}
+
+@media (max-width: 768px) {
   .container {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 1rem 2rem;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+    padding: 1rem;
   }
-  
+
   .logo {
-    display: flex;
-    align-items: center;
-    gap: 0.75rem;
-    text-decoration: none;
-    color: #333;
-    font-weight: 600;
-    font-size: 1.25rem;
+    font-size: 1.1rem;
   }
-  
+
   .logo img {
-    height: 40px;
-    width: auto;
-    object-fit: contain;
+    height: 32px;
   }
-  
+
   .login-button {
-    background: #007bff;
-    color: white;
-    border: none;
-    padding: 0.5rem 1.5rem;
-    border-radius: 6px;
-    font-weight: 500;
-    cursor: pointer;
-    transition: background-color 0.2s ease;
+    padding: 0.4rem 1.2rem;
   }
-  
-  .login-button:hover {
-    background: #0056b3;
-  }
-  
-  @media (max-width: 768px) {
-    .container {
-      padding: 1rem;
-    }
-    
-    .logo {
-      font-size: 1.1rem;
-    }
-    
-    .logo img {
-      height: 32px;
-    }
-    
-    .login-button {
-      padding: 0.4rem 1.2rem;
-    }
-  }
+}
