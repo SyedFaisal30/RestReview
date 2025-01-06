@@ -4,7 +4,6 @@ import styles from "./Login.module.css";
 function Login() {
 	const googleAuth = () => {
 		window.open(
-			
 			"http://localhost:8080/auth/google/callback",
 			"_self"
 		);
